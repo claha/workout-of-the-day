@@ -1,1 +1,15 @@
 #+TITLE: Workout of the Day
+
+* Bear Complex WoD
+
+  AMRAP 15min
+
+  - 15 Deadlift, 40kg
+  - 12 Back Squat, 40kg
+  - 9 Push Press, 40kg
+  - 12 Bent over Row, 40kg
+  - 15 Box Jump, 60cm
+
+  | Date             | Result               | Note |
+  |------------------+----------------------+------|
+  | <2020-11-27 Fri> | 4 laps + 15 Deadlift |      |
